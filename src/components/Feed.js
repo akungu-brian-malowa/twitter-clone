@@ -43,15 +43,6 @@ const Feed = () => {
       text="Awsome twiter clone...."
       avatar="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv331uX7oim1tkzDAqMcKH_nG9hNys6WV3eQ&usqp=CAU"/>
       <Post 
-      text="Awsome twiter clone...."
-      avatar="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREoJfj_I545bjYfGDKt9MUQXZaRAdolVYbBg&usqp=CAU"/>
-      <Post 
-      text="Awsome twiter clone...."
-      avatar="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREoJfj_I545bjYfGDKt9MUQXZaRAdolVYbBg&usqp=CAU"/>
-      <Post 
-      text="Awsome twiter clone...."
-      avatar="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREoJfj_I545bjYfGDKt9MUQXZaRAdolVYbBg&usqp=CAU"/>
-      <Post 
       text="In a land of Myth at a TIME OF MAGIC....."
       avatar="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO-hlLa1mnf2V1p__dFMxkNjf44wHphOxH2g&usqp=CAU"/>
       <Post 
