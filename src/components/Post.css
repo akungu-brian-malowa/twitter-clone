@@ -4,11 +4,22 @@
     border-bottom: 1px solid var(--twitter-background);
     padding-bottom: 10px;
   }
+  @media only screen and (max-width: 568px) {
+    .post__body {
+      flex: 0;
+      padding: 5px;
+      width: 80%;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+  }
   
   .post__body {
     flex: 1;
     padding: 10px;
   }
+
   
   .post__body > img {
     border-radius: 20px;
@@ -19,6 +30,17 @@
     justify-content: space-between;
     margin-top: 20px;
   }
+
+  @media only screen and (max-width: 568px) {
+    .post__footer {
+      width: 90%;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+  }
+
+
   
   .post__headerDescription {
     margin-bottom: 10px;
@@ -45,7 +67,23 @@
     padding: 20px;
     border-radius: 50%;
   }
+  /* @media only screen and (max-width: 568px) {
+    .post__avatar {
+      padding: 10px;
+      border-radius: 50%;
+      display: block;
+    }
+
+  } */
   .post__avatar > img {
     height: 40px;
     border-radius: 50%;
+  }
+  
+  @media only screen and (max-width: 568px) {
+    .post__avatar > img {
+      margin-top: 10px;
+      height: 40px;
+      border-radius: 50%;
+    }
   }

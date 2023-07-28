@@ -6,6 +6,14 @@
     padding-left: 20px;
     padding-right: 20px;
   }
+
+  @media only screen and (max-width: 568px) {
+    .sidebar {
+      display: none;
+    }
+
+  }
+
   
   .sidebar__twitterIcon {
     color: var(--twitter-color);

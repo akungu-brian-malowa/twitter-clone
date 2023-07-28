@@ -4,6 +4,13 @@
   min-width: fit-content;
   overflow-y: scroll;
 }
+@media only screen and (max-width: 568px) {
+  .feed {
+    flex: 0.1;
+    /* padding-left: 5px;
+    padding-right: 5px; */
+  }
+}
 
 /* Hide scrollbar for Chrome, Safari and Opera */
 .feed::-webkit-scrollbar {
